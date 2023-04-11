@@ -1,6 +1,6 @@
 package POO_Java.Cubo;
 
-public class PruebaCuba {
+public class PruebaCubo {
   public static void main(String[] args) {
     Cubo cubito = new Cubo(2);
     Cubo cubote = new Cubo(4);

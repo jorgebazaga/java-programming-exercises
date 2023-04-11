@@ -1,4 +1,4 @@
-package Funciones;
+package Funciones.FuncionesMatematicas;
 
 public class MainFuncionesMatematicas{
 public static void main (String[] args) {

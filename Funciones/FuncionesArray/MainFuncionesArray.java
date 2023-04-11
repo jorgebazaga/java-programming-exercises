@@ -1,3 +1,4 @@
+package Funciones.FuncionesArray;
 /* 
  * Clase Main para probar FuncionesArray
  * Autor: Bazaga Sarmiento, Jorge

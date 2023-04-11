@@ -8,6 +8,8 @@ import java.util.HashMap;
  * el programa dirá “Lo siento, no tiene acceso al área restringida”. Los nombres
  * de usuario con sus correspondientes contraseñas deben estar almacenados en
  * una estructura de la clase HashMap.
+ * @author Jorge Bazaga Sarmiento
+ * Fecha de creación: 13/03/22
  */
 
 public class Ejercicio6 {
@@ -15,8 +17,8 @@ public class Ejercicio6 {
 
         HashMap<Integer, String> usuario = new HashMap<Integer, String>();
         HashMap<Integer, String> contraseña = new HashMap<Integer, String>();
-        String username = request.getParameter("user")
-        String password = request.getParameter("pw")
+        String username = request.getParameter("user");
+        String password = request.getParameter("pw");
 
         usuario.put(1,"usuario");
         contraseña.put(1, "usuario123");

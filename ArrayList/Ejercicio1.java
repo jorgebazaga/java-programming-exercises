@@ -1,6 +1,8 @@
 import java.util.ArrayList;
-/**
+/*
  * Ejercicio1
+ * @author Jorge Bazaga Sarmiento
+ * Fecha de creación: 13/03/22
  */
 public class Ejercicio1 {
 

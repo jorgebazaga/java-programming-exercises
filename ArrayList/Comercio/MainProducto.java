@@ -8,7 +8,7 @@ package Comercio;
 
 import java.util.ArrayList;
 
-public class Main {
+public class MainProducto {
   public static void main(String[] args) {
     //Creamos las instancias de productos
     Producto Pan = new Producto("Pan", 6);

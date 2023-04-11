@@ -1,5 +1,8 @@
 import java.util.ArrayList;
-
+/* 
+ * @author Jorge Bazaga Sarmiento
+ * Fecha de creación: 13/03/22
+ */
 public class Ejercicio2 {
   public static void main(String[] args) {
     ArrayList<Integer> valores = new ArrayList<Integer>();

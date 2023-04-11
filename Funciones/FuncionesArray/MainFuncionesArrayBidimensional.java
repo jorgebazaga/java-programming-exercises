@@ -1,3 +1,4 @@
+package Funciones.FuncionesArray;
 /* 
  * Clase Main para probar FuncionesArrayBidimensional
  * Autor: Bazaga Sarmiento, Jorge

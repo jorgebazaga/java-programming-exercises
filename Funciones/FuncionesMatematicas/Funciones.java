@@ -1,4 +1,4 @@
-package matematicas;
+package Funciones.FuncionesMatematicas;
 
 /**
  * Ejercicios 1-14

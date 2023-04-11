@@ -1,6 +1,9 @@
 import java.util.ArrayList;
 import java.util.Collections;
-
+/* 
+ * @author Jorge Bazaga Sarmiento
+ * Fecha de creación: 13/03/22
+ */
 public class Ejercicio3 {
   public static void main(String[] args) {
     ArrayList<Integer> numeros = new ArrayList<Integer>();

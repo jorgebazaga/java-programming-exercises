@@ -6,7 +6,7 @@
  */
 import java.util.HashMap;
 
-public class Ejercicio2 {
+public class MenuTrabajadores {
   public static void main(String[] args) {
 
     HashMap<String, String> trabajadores = new HashMap<String, String>();

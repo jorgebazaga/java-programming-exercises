@@ -10,7 +10,7 @@
  * @author Jorge Bazaga Sarmiento
  *         24/11/2022
  */
-public class palotes {
+public class ConvertidorNumerico {
   public static void main(String[] args) {
     //Desde este print llamamos a la función.
     System.out.println(convierteEnPalotes(1234));
